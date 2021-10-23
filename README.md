@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trevor</h1>
-<h3 align="center">A junior at University of Washington Tacoma.</h3>
+<h3 align="center">I am a junior at University of Washington Tacoma.</h3>
 
 - 🔭 I’m currently working on [a Scheme to x86 compiler](https://github.com/trevortomlin/Scheme-Compiler)
 
