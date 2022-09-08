@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Scheme to x86 compiler](https://github.com/trevortomlin/Scheme-Compiler)
 
-- 💻 I am an incoming intern at BNY Mellon!
+- 💻 I am an currently looking for a **Summer 2023 New Grad Software Engineering position**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
