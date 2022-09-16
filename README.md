@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trevor</h1>
-<h3 align="center">I am a junior at University of Washington Tacoma.</h3>
+<h3 align="center">I am a Senior at University of Washington Tacoma.</h3>
 
 - 🔭 I’m currently working on [Pi Pico Chip-8 Emulator](https://github.com/trevortomlin/Pi-Pico-Chip8-Emulator)
 
