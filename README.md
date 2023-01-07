@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trevor</h1>
 <h3 align="center">I am a Senior at the University of Washington Tacoma.</h3>
 
-- 🔭 I’m currently working on [Pi Pico Chip-8 Emulator](https://github.com/trevortomlin/Pi-Pico-Chip8-Emulator)
-
 - 💻 I am an currently looking for a **Summer 2023 New Grad Software Engineering position**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 📫 How to reach me **trevortomlin2@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
